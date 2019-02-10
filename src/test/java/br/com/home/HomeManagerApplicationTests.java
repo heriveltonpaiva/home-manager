@@ -1,4 +1,4 @@
-package br.com.home.homemanager;
+package br.com.home;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
